@@ -56,3 +56,11 @@ console.log(a + "+" + b + "=" + e);
 
 
 console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
+console.log("this is insert for");
