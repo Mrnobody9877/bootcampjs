@@ -118,11 +118,11 @@ const pi = 3.14;
 // })
 
 
-// const test = (a, b = 3, c = 5) =>{
-//     return (a + b + c);
-// }
+const test = (a, b = 3, c = 5) => {
+    return (a + b + c);
+}
 
-// console.log(test(4));
+console.log(test(4));
 
 
 // let car = {
@@ -269,9 +269,9 @@ const pi = 3.14;
 
 
 
-const myfunc = (w,x,y,z) => {
-    console.log(w + x + y +z);
-}
+// const myfunc = (w,x,y,z) => {
+//     console.log(w + x + y +z);
+// }
 
-let args = [1,2,3];
-myfunc(...args,4);
+// let args = [1,2,3];
+// myfunc(...args,4);
